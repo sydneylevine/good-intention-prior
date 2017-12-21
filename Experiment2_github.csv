@@ -1,0 +1,206 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q5,Q7,Q9,Q11,Q9,Q10,Q9,Q13
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Thank you for taking the time to complete this survey.  For our research, we are interested in knowing certain facts about you. Specifically, we are interested in whether you read directions carefully. So, in order to show us that you have read the instructions, please ignore this first question about attending university (don't answer it).  Also, please copy and paste the words É??I have read the instructionsÉ?ù (without the quotation marks) in the box labeled ""Any comments or questions?"" Thank you very much. 
+Have you attended university?",Any comments or questions?,"Please read the following story and answer the questions that follow.
+Joe is taking his
+daily walk near the train tracks when he notices that an empty runaway train is
+approaching. The train is rushing towards a man, who is walking across the
+tracks. It is moving so fast that he will not be able to get off the tracks in
+time. Joe is standing next to a switch, which he can throw, that will turn the
+train onto a side track, thereby preventing it from killing the man. There are
+five men on the side track. Hank can throw the switch, killing the five men; or
+he can refrain from doing this, letting the man on the main track die. Joe then recognizes that the man is someone who he deeply cares about. Joe thinks to himself, É??This is my chance to save that man.É?ù Joe throws the switch.
+
+
+Is it morally
+permissible for Joe to throw the switch?",Why do you think Joe threw the switch?,"Please read the following story and answer the questions that follow.
+Mark is taking his
+daily walk near the train tracks when he notices that an empty runaway train is
+approaching. The train is rushing towards a man, who is walking across the
+tracks. It is moving so fast that he will not be able to get off the tracks in
+time. Mark is standing next to a switch, which he can throw, that will turn the
+train onto a side track, thereby preventing it from killing the man. There are
+five men on the side track. Mark can throw the switch, killing the five men; or
+he can refrain from doing this, letting the man on the main track die. Mark then recognizes that the men on the side track are people who he hates with a passion. Mark thinks to himself, É??This is my chance to kill those bastards.É?ù Mark throws the switch.
+
+
+Is it morally
+permissible for Mark to throw the switch?",Why do you think Mark threw the switch?,"Please read the following story and answer the questions that follow.
+Hank is taking his
+daily walk near the train tracks when he notices that an empty runaway train is
+approaching. The train is rushing towards a man, who is walking across the
+tracks. It is moving so fast that he will not be able to get off the tracks in
+time. Hank is standing next to a switch, which he can throw, that will turn the
+train onto a side track, thereby preventing it from killing the man. There are
+five men on the side track. Hank can throw the switch, killing the five men; or
+he can refrain from doing this, letting the man on the main track die. Hank
+throws the switch.
+
+
+Is it morally
+permissible for Hank to throw the switch?",Why do you think Hank threw the switch?
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID3""}","{""ImportId"":""QID4_TEXT""}","{""ImportId"":""QID5""}","{""ImportId"":""QID6""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10""}","{""ImportId"":""QID7""}","{""ImportId"":""QID9""}"
+11/24/2017 13:26,11/24/2017 13:27,0,*******,100,75,1,11/24/2017 13:27,R_12hFgj9BCiydsIH,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 13:26,11/24/2017 13:27,0,*******,100,53,1,11/24/2017 13:27,R_12nxxSHfliF1Jnq,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 13:28,11/24/2017 13:28,0,*******,100,51,1,11/24/2017 13:28,R_12SvVy0lWmAaBKl,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 12:48,11/24/2017 12:50,0,*******,100,105,1,11/24/2017 12:50,R_1C2P6DJ7uvVP2cK,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 12:35,11/24/2017 12:39,0,*******,100,238,1,11/24/2017 12:39,R_1Cd4KB9EwtAJbW0,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/23/2017 0:49,11/23/2017 0:49,0,*******,100,38,1,11/23/2017 0:49,R_1d9Mg0jt27pKwaY,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/22/2017 22:34,11/22/2017 22:35,0,*******,100,60,1,11/22/2017 22:35,R_1dGrM9kkRtokELM,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,0
+11/23/2017 0:35,11/23/2017 0:38,0,*******,100,181,1,11/23/2017 0:38,R_1DoKcgNB4q9TzTv,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 12:36,11/24/2017 12:36,0,*******,100,22,1,11/24/2017 12:36,R_1eVvJGBCnguIcRi,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,1,,
+11/23/2017 1:09,11/23/2017 1:09,0,*******,100,39,1,11/23/2017 1:09,R_1Few0rBk0eBZkvU,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/24/2017 14:05,11/24/2017 14:06,0,*******,100,64,1,11/24/2017 14:06,R_1FhLUpckyTOvBkQ,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/24/2017 14:17,11/24/2017 14:18,0,*******,100,56,1,11/24/2017 14:18,R_1FlmtIQfwkvMwGH,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/23/2017 0:56,11/23/2017 0:57,0,*******,100,77,1,11/23/2017 0:57,R_1H7YBiSa3UukG4r,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/23/2017 0:27,11/23/2017 0:29,0,*******,100,141,1,11/23/2017 0:29,R_1Hd8KY6wTFnkzOL,*******,*******,*******,*******,*******,*******,anonymous,EN,3,I accidentally answered the first question as i was reading the instructions and it won't let me un-answer it,,,,,1,1
+11/24/2017 13:39,11/24/2017 13:40,0,*******,100,70,1,11/24/2017 13:40,R_1hKJv76IIVNIwhh,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 13:55,11/24/2017 13:56,0,*******,100,87,1,11/24/2017 13:56,R_1IB1Yiojds9dkcz,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 13:01,11/24/2017 13:01,0,*******,100,46,1,11/24/2017 13:01,R_1iqxGKq0uv81NMC,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 12:48,11/24/2017 12:49,0,*******,100,59,1,11/24/2017 12:49,R_1IX97tsLx25u1Ol,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 12:36,11/24/2017 12:38,0,*******,100,105,1,11/24/2017 12:38,R_1jBbFhN9ziNDQb6,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,1,0,,
+11/24/2017 14:05,11/24/2017 14:06,0,*******,100,41,1,11/24/2017 14:06,R_1JUssFjB74tKqCf,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/24/2017 14:17,11/24/2017 14:18,0,*******,100,66,1,11/24/2017 14:18,R_1jV50b2LsC216QX,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/22/2017 23:10,11/22/2017 23:12,0,*******,100,134,1,11/22/2017 23:12,R_1Lb4WxHNHdLSyqU,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/22/2017 22:15,11/22/2017 22:16,0,*******,100,86,1,11/22/2017 22:16,R_1llweYplZ2e9QHL,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 12:47,11/24/2017 12:48,0,*******,100,62,1,11/24/2017 12:48,R_1M3QGEAOTeEcNi7,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/24/2017 14:30,11/24/2017 14:34,0,*******,100,231,1,11/24/2017 14:34,R_1M5KYx55rKlPlSP,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 14:46,11/24/2017 14:50,0,*******,100,232,1,11/24/2017 14:50,R_1n6p8jxn5yNwsCI,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 13:53,11/24/2017 13:55,0,*******,100,86,1,11/24/2017 13:55,R_1n7okAGuPfDtew0,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 12:35,11/24/2017 12:37,0,*******,100,94,1,11/24/2017 12:37,R_1Opi2Hq0M4MydNM,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 12:40,11/24/2017 12:41,0,*******,100,25,1,11/24/2017 12:41,R_1Ork88pcv9IFYWi,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,1,1,,
+11/24/2017 13:03,11/24/2017 13:06,0,*******,100,177,1,11/24/2017 13:06,R_1OwatylAExsW4TK,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 13:01,11/24/2017 13:02,0,*******,100,62,1,11/24/2017 13:02,R_1pol2p8I9pw1ryI,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/22/2017 23:31,11/22/2017 23:32,0,*******,100,75,1,11/22/2017 23:32,R_1qaCfiZTaokc2sz,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 12:16,11/24/2017 12:16,0,*******,100,31,1,11/24/2017 12:16,R_1QtGxgO0flfTXgz,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,1,,
+11/23/2017 1:30,11/23/2017 1:32,0,*******,100,131,1,11/23/2017 1:32,R_1S5a8G9Pn0xALux,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 13:41,11/24/2017 13:41,0,*******,100,50,1,11/24/2017 13:41,R_21aIG7AanK6AdHL,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 12:12,11/24/2017 12:13,0,*******,100,72,1,11/24/2017 12:13,R_21vv6SyLwllTh4M,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/22/2017 21:48,11/22/2017 21:50,0,*******,100,96,1,11/22/2017 21:50,R_22GnibcITol3Yvv,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/23/2017 2:12,11/23/2017 2:14,0,*******,100,149,1,11/23/2017 2:14,R_22RphFwTlOXR7Kb,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/23/2017 0:55,11/23/2017 0:55,0,*******,100,24,1,11/23/2017 0:55,R_22V23HLkXJl4JO6,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 13:13,11/24/2017 13:14,0,*******,100,49,1,11/24/2017 13:14,R_233KUT2TFMfF8pk,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 13:13,11/24/2017 13:16,0,*******,100,177,1,11/24/2017 13:16,R_23aAzV7iL4AVBM0,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/23/2017 1:30,11/23/2017 1:32,0,*******,100,117,1,11/23/2017 1:32,R_24AwXc8WIasu5SA,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 12:25,11/24/2017 12:27,0,*******,100,103,1,11/24/2017 12:27,R_24j6T8XqBnIKoPU,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/23/2017 0:10,11/23/2017 0:11,0,*******,100,104,1,11/23/2017 0:11,R_25ELlFsdKo0h0nR,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/24/2017 12:35,11/24/2017 12:36,0,*******,100,90,1,11/24/2017 12:36,R_25Gb9cNljeXWKbh,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 11:58,11/24/2017 11:58,0,*******,100,34,1,11/24/2017 11:58,R_26g2cU4Ig4kqvgs,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,1,,
+11/24/2017 12:22,11/24/2017 12:23,0,*******,100,50,1,11/24/2017 12:23,R_27H8RsPmr5HdY6w,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/24/2017 11:57,11/24/2017 11:57,0,*******,100,43,1,11/24/2017 11:57,R_2AF63QkoFcrWy7X,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 13:01,11/24/2017 13:02,0,*******,100,68,1,11/24/2017 13:02,R_2AQFbDW1SpJFQMZ,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 12:22,11/24/2017 12:23,0,*******,100,40,1,11/24/2017 12:23,R_2ATNVMZIPg2qJZw,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 13:52,11/24/2017 13:53,0,*******,100,66,1,11/24/2017 13:53,R_2aW5lUhIaasuJpi,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,1,,
+11/22/2017 23:56,11/22/2017 23:58,0,*******,100,116,1,11/22/2017 23:58,R_2ayPEguZ1C3XG05,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/24/2017 11:57,11/24/2017 11:58,0,*******,100,72,1,11/24/2017 11:58,R_2B2JGvM78ux570M,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 13:31,11/24/2017 13:31,0,*******,100,39,1,11/24/2017 13:31,R_2BznZBiV1U9O4JK,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/24/2017 12:13,11/24/2017 12:14,0,*******,100,62,1,11/24/2017 12:14,R_2cpU8e2yxbfxske,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 11:58,11/24/2017 11:58,0,*******,100,23,1,11/24/2017 11:58,R_2cvETPJqwpGe1pt,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,1,1,,
+11/22/2017 21:03,11/22/2017 21:05,0,*******,100,113,1,11/22/2017 21:05,R_2diht8h7x85kzHY,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/22/2017 23:17,11/22/2017 23:18,0,*******,100,47,1,11/22/2017 23:18,R_2DUOrcUzhdnnYTJ,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/23/2017 1:01,11/23/2017 1:05,0,*******,100,195,1,11/23/2017 1:05,R_2fJym3ZPu607sDa,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/22/2017 21:30,11/22/2017 21:30,0,*******,100,58,1,11/22/2017 21:31,R_2fy3ASgNcQi6fB4,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 12:01,11/24/2017 12:02,0,*******,100,45,1,11/24/2017 12:02,R_2OPXjLAUxHwxMk0,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/22/2017 23:47,11/22/2017 23:51,0,*******,100,204,1,11/22/2017 23:51,R_2P8aV3s7vp4srhk,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/23/2017 1:03,11/23/2017 1:04,0,*******,100,38,1,11/23/2017 1:04,R_2qarSe27Xb0jZqG,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 12:47,11/24/2017 12:48,0,*******,100,43,1,11/24/2017 12:48,R_2qEucZd65gXNDBY,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 13:14,11/24/2017 13:16,0,*******,100,143,1,11/24/2017 13:16,R_2QWLA8l5vJWO3B0,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/23/2017 1:55,11/23/2017 1:56,0,*******,100,44,1,11/23/2017 1:56,R_2qwwCDZf2TOYqgY,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 13:13,11/24/2017 13:14,0,*******,100,38,1,11/24/2017 13:14,R_2R3wr46deTBzCho,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/24/2017 14:17,11/24/2017 14:18,0,*******,100,86,1,11/24/2017 14:18,R_2SwtXLg1j04ZllZ,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/22/2017 22:00,11/22/2017 22:01,0,*******,100,42,1,11/22/2017 22:01,R_2sYkGiZjY3poKmp,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/22/2017 22:03,11/22/2017 22:04,0,*******,100,74,1,11/22/2017 22:04,R_2t8WHO7INJ3af5I,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/24/2017 13:26,11/24/2017 13:27,0,*******,100,75,1,11/24/2017 13:27,R_2TQY9uVLGRfHNe6,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions ,0,1,,,,
+11/22/2017 21:16,11/22/2017 21:17,0,*******,100,77,1,11/22/2017 21:17,R_2TY4D8y6aVvD7nK,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 14:43,11/24/2017 14:45,0,*******,100,103,1,11/24/2017 14:45,R_2UfU6VrWEUeHvN2,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 13:26,11/24/2017 13:28,0,*******,100,127,1,11/24/2017 13:28,R_2UhJNhd7WZYMHNB,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 12:25,11/24/2017 12:26,0,*******,100,58,1,11/24/2017 12:26,R_2uKvRyzRozbk8Fy,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/24/2017 12:23,11/24/2017 12:24,0,*******,100,61,1,11/24/2017 12:24,R_2uswqZbowbL6xJG,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 13:01,11/24/2017 13:02,0,*******,100,64,1,11/24/2017 13:02,R_2VDgzc0BxWhs68r,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 13:54,11/24/2017 13:55,0,*******,100,95,1,11/24/2017 13:55,R_2VdolihzKTVkEw9,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 12:22,11/24/2017 12:23,0,*******,100,55,1,11/24/2017 12:23,R_2VlPZ5g6Dw8oW40,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/22/2017 22:27,11/22/2017 22:28,0,*******,100,53,1,11/22/2017 22:28,R_2VxSswVTw0NCwvD,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/22/2017 23:19,11/22/2017 23:22,0,*******,100,160,1,11/22/2017 23:22,R_2w14KuXOG1F2Ii0,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 14:18,11/24/2017 14:29,0,*******,100,647,1,11/24/2017 14:29,R_2w1bV1vZxF4aKnz,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,1,1,,
+11/22/2017 23:01,11/22/2017 23:02,0,*******,100,42,1,11/22/2017 23:02,R_2WCLbbcsIfuZLk6,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 11:57,11/24/2017 11:58,0,*******,100,90,1,11/24/2017 11:58,R_2wS560YdKGqVxyo,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 12:40,11/24/2017 12:44,0,*******,100,199,1,11/24/2017 12:44,R_2ygt4yLn3kizNRU,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 12:38,11/24/2017 12:39,0,*******,100,69,1,11/24/2017 12:39,R_2z5qTefAxhCtQQ5,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions ,,,0,0,,
+11/24/2017 13:32,11/24/2017 13:35,0,*******,100,135,1,11/24/2017 13:35,R_2zFLLjAofZcgpkT,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,1,,
+11/22/2017 23:58,11/22/2017 23:59,0,*******,100,78,1,11/22/2017 23:59,R_2zipG8aYA25wALs,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 13:14,11/24/2017 13:15,0,*******,100,63,1,11/24/2017 13:15,R_2ZNqtlS1E821eBK,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 14:32,11/24/2017 14:33,0,*******,100,70,1,11/24/2017 14:33,R_2zqiqer3tscIzQM,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/23/2017 0:12,11/23/2017 0:13,0,*******,100,86,1,11/23/2017 0:13,R_2zzRO0S6q6jl9WO,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 14:05,11/24/2017 14:07,0,*******,100,107,1,11/24/2017 14:07,R_30kPVXwMUmAutQ6,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,1,0,,
+11/24/2017 14:05,11/24/2017 14:06,0,*******,100,80,1,11/24/2017 14:06,R_31HhpZmPuNQf5ry,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 12:11,11/24/2017 12:13,0,*******,100,89,1,11/24/2017 12:13,R_325YEMKX1z1XwNE,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 14:20,11/24/2017 14:21,0,*******,100,90,1,11/24/2017 14:21,R_33fIDEOyCwQpHoC,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/22/2017 22:41,11/22/2017 22:42,0,*******,100,78,1,11/22/2017 22:42,R_33qgC4zHgU6qWDn,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,0
+11/24/2017 13:55,11/24/2017 13:56,0,*******,100,62,1,11/24/2017 13:56,R_3aR0shmAYjfuEFz,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,0,,,,
+11/22/2017 21:29,11/22/2017 21:30,0,*******,100,53,1,11/22/2017 21:30,R_3DhjX1SFTkMeJ1f,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/22/2017 23:17,11/22/2017 23:21,0,*******,100,232,1,11/22/2017 23:21,R_3EAbWBqtbWM7PaC,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 13:14,11/24/2017 13:15,0,*******,100,88,1,11/24/2017 13:15,R_3fkHKCaCQ1aQR6U,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 14:18,11/24/2017 14:20,0,*******,100,113,1,11/24/2017 14:20,R_3gF7LIfUAcauy2t,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 13:56,11/24/2017 13:57,0,*******,100,98,1,11/24/2017 13:57,R_3HzYGzQuW7Ado43,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/23/2017 0:12,11/23/2017 0:13,0,*******,100,76,1,11/23/2017 0:13,R_3ix5jAn1IUXSaSM,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/24/2017 13:39,11/24/2017 13:41,0,*******,100,106,1,11/24/2017 13:41,R_3Jf666gyD1p3ijQ,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/23/2017 0:27,11/23/2017 0:28,0,*******,100,86,1,11/23/2017 0:28,R_3kLdyBx1m76R7fR,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 13:00,11/24/2017 13:02,0,*******,100,78,1,11/24/2017 13:02,R_3KMJPxQLHBFmMHh,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/22/2017 22:54,11/22/2017 22:55,0,*******,100,51,1,11/22/2017 22:55,R_3KOc9tOXFuaqKW6,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/22/2017 21:03,11/22/2017 21:04,0,*******,100,63,1,11/22/2017 21:04,R_3NQw5nPeK6bextw,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 14:46,11/24/2017 14:49,0,*******,100,175,1,11/24/2017 14:49,R_3NydU7cudKqI2T4,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/22/2017 22:44,11/22/2017 22:44,0,*******,100,47,1,11/22/2017 22:44,R_3OeKmgakKuB5taI,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/23/2017 0:39,11/23/2017 0:40,0,*******,100,71,1,11/23/2017 0:40,R_3Oom320uzChOYnA,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 13:02,11/24/2017 13:05,0,*******,100,186,1,11/24/2017 13:05,R_3PKTbrNzN2igRmg,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/22/2017 22:28,11/22/2017 22:30,0,*******,100,106,1,11/22/2017 22:30,R_3PSrNzQujZ0k90e,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 14:31,11/24/2017 14:32,0,*******,100,72,1,11/24/2017 14:32,R_3RlMQ5ArUI7Unfl,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 13:39,11/24/2017 13:40,0,*******,100,67,1,11/24/2017 13:40,R_3rV5YpzQXfpc5Jb,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 12:00,11/24/2017 12:00,0,*******,100,44,1,11/24/2017 12:00,R_3szuBxE21cgq6Fn,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 14:30,11/24/2017 14:32,0,*******,100,119,1,11/24/2017 14:32,R_4H0fr73GeumEvF7,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 13:39,11/24/2017 13:40,0,*******,100,72,1,11/24/2017 13:40,R_577jM1nmHZoHc3v,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/22/2017 21:47,11/22/2017 21:48,0,*******,100,59,1,11/22/2017 21:48,R_5ApBHa1f1bPsKEV,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/22/2017 21:18,11/22/2017 21:20,0,*******,100,89,1,11/22/2017 21:20,R_6yDczNsLSroAoox,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 12:48,11/24/2017 12:49,0,*******,100,93,1,11/24/2017 12:49,R_9N4dULIXsYUWBNL,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 13:00,11/24/2017 13:03,0,*******,100,130,1,11/24/2017 13:03,R_AEwMFz6FqzWgSfn,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 12:11,11/24/2017 12:13,0,*******,100,81,1,11/24/2017 12:13,R_AMRF8u3tSHgG6c1,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/22/2017 22:55,11/22/2017 22:58,0,*******,100,221,1,11/22/2017 22:58,R_baApJA2sT3sujo5,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions.,,,,,0,1
+11/24/2017 14:30,11/24/2017 14:30,0,*******,100,41,1,11/24/2017 14:30,R_bdVYyYzQ2Pg7cpH,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/22/2017 22:17,11/22/2017 22:18,0,*******,100,82,1,11/22/2017 22:18,R_BP85QnFt6s1uwKd,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 13:55,11/24/2017 13:56,0,*******,100,79,1,11/24/2017 13:56,R_BRLIoMcYQtYwpEt,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 13:14,11/24/2017 13:14,0,*******,100,41,1,11/24/2017 13:14,R_BtPxo35Z4G0mx9f,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 12:48,11/24/2017 12:49,0,*******,100,88,1,11/24/2017 12:49,R_bvI01hgdQwJX03v,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/23/2017 0:09,11/23/2017 0:10,0,*******,100,84,1,11/23/2017 0:10,R_CfWwMIRduAsCf8l,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 13:39,11/24/2017 13:41,0,*******,100,108,1,11/24/2017 13:41,R_cYA9njD5KK8kK1X,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 13:00,11/24/2017 13:06,0,*******,100,355,1,11/24/2017 13:06,R_d5aeaesYA6qCSw9,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/22/2017 21:08,11/22/2017 21:09,0,*******,100,55,1,11/22/2017 21:09,R_DViEttExo2FsbSx,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 12:48,11/24/2017 12:50,0,*******,100,118,1,11/24/2017 12:50,R_elpyr7k9B8T8Mnf,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/24/2017 14:47,11/24/2017 14:48,0,*******,100,80,1,11/24/2017 14:48,R_OJzCw8mONC0qERH,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/24/2017 14:18,11/24/2017 14:19,0,*******,100,77,1,11/24/2017 14:19,R_OMPwylYsdJHDjot,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 14:43,11/24/2017 14:45,0,*******,100,113,1,11/24/2017 14:45,R_OwLg7phq2bgr4B3,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/22/2017 21:11,11/22/2017 21:12,0,*******,100,50,1,11/22/2017 21:12,R_p4bdjlHll0AzOrn,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 12:13,11/24/2017 12:14,0,*******,100,57,1,11/24/2017 12:14,R_pmIdKBgy7WMxv5D,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/24/2017 14:05,11/24/2017 14:06,0,*******,100,57,1,11/24/2017 14:06,R_PXrK5p9citpXtCh,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 14:34,11/24/2017 14:35,0,*******,100,74,1,11/24/2017 14:35,R_qCHPaaQm3ttF5HH,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,1,0,,
+11/23/2017 1:14,11/23/2017 1:15,0,*******,100,68,1,11/23/2017 1:15,R_R2ggxseUVANY61b,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 14:30,11/24/2017 14:31,0,*******,100,79,1,11/24/2017 14:31,R_r6aXlpG4XT1cGtj,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/22/2017 23:59,11/23/2017 0:01,0,*******,100,102,1,11/23/2017 0:01,R_r8ROXhIkSKYsyWt,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/22/2017 23:43,11/22/2017 23:45,0,*******,100,74,1,11/22/2017 23:45,R_Ra7YloxqvDQHucF,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 14:30,11/24/2017 14:32,0,*******,100,69,1,11/24/2017 14:32,R_RF6EfOAc5Mai0x3,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 14:43,11/24/2017 14:44,0,*******,100,61,1,11/24/2017 14:44,R_RPvHYI7eoDSLOiB,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
+11/22/2017 23:45,11/22/2017 23:47,0,*******,100,123,1,11/22/2017 23:47,R_SAWkqLpEbeyZuUh,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/24/2017 12:22,11/24/2017 12:23,0,*******,100,69,1,11/24/2017 12:23,R_Tds2uAVGFdbOzgB,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,1,0,,
+11/24/2017 13:39,11/24/2017 13:40,0,*******,100,51,1,11/24/2017 13:40,R_tJndhmmxgV8wJnH,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 14:18,11/24/2017 14:18,0,*******,100,38,1,11/24/2017 14:18,R_tKykvJ5tHTTTvrP,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,1,1,,
+11/24/2017 14:05,11/24/2017 14:05,0,*******,100,45,1,11/24/2017 14:05,R_UaNEdLHFy30kArT,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/22/2017 22:39,11/22/2017 22:40,0,*******,100,51,1,11/22/2017 22:40,R_Ug7ereXyhKYZtap,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/22/2017 23:31,11/22/2017 23:33,0,*******,100,114,1,11/22/2017 23:33,R_UgaSUV035l9M98d,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,0
+11/24/2017 12:22,11/24/2017 12:23,0,*******,100,49,1,11/24/2017 12:23,R_vB3Lco57YB0Butr,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,0,,
+11/24/2017 11:57,11/24/2017 11:58,0,*******,100,76,1,11/24/2017 11:58,R_vkJcUNn73fidPTr,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,0,1,,
+11/24/2017 13:41,11/24/2017 13:42,0,*******,100,59,1,11/24/2017 13:42,R_w1qJjec184Wi3hn,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/22/2017 21:16,11/22/2017 21:19,0,*******,100,162,1,11/22/2017 21:19,R_WBx9UpPHf4SQXkd,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/22/2017 22:01,11/22/2017 22:03,0,*******,100,116,1,11/22/2017 22:03,R_xECwQU4sLyrhEkN,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,0,1
+11/22/2017 23:05,11/22/2017 23:06,0,*******,100,34,1,11/22/2017 23:06,R_xEMAIGWYJodNvdD,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,,,1,1
+11/24/2017 12:13,11/24/2017 12:15,0,*******,100,100,1,11/24/2017 12:15,R_XzEpHtos9PuSRmp,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,1,0,,
+11/24/2017 12:47,11/24/2017 12:48,0,*******,100,44,1,11/24/2017 12:48,R_yCTqL3e15SCyN9f,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 11:56,11/24/2017 11:57,0,*******,100,44,1,11/24/2017 11:57,R_ysB7sLZ9GbvA6Ah,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,,,1,0,,
+11/24/2017 13:52,11/24/2017 13:54,0,*******,100,157,1,11/24/2017 13:54,R_zUVxD3hGh5291fP,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,0,1,,,,
+11/24/2017 14:30,11/24/2017 14:31,0,*******,100,37,1,11/24/2017 14:31,R_zVEJxP5TMeY5NKh,*******,*******,*******,*******,*******,*******,anonymous,EN,,I have read the instructions,1,1,,,,
